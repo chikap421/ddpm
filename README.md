@@ -17,3 +17,10 @@ To install `diffusion_models`, follow these steps:
 git clone https://github.com/chikap421/diffusion_models.git
 cd diffusion_models
 pip install -r requirements.txt
+
+## Usage
+
+To run a diffusion model, use the following command:
+
+```bash
+python diffusion_models.py
