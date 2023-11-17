@@ -9,16 +9,16 @@
 Here are some stages of noise addition to the images:
 
 ### 25% Noise
-![DDPM Noisy images 25%](noisy_image_25%.png)
+![DDPM Noisy images 25%](noisy_image_25.png)
 
 ### 50% Noise
-![DDPM Noisy images 50%](noisy_image_50%.png)
+![DDPM Noisy images 50%](noisy_image_50.png)
 
 ### 75% Noise
-![DDPM Noisy images 75%](noisy_image_75%.png)
+![DDPM Noisy images 75%](noisy_image_75.png)
 
 ### 100% Noise
-![DDPM Noisy images 100%](noisy_image_100%.png)
+![DDPM Noisy images 100%](noisy_image_100.png)
 
 ### Original Images
 ![Original images](original_image.png)
