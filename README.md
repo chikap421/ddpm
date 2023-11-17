@@ -35,7 +35,4 @@ pip install -r requirements.txt
 
 ## Usage
 To run a diffusion model, use the following command:
-
-bash
-python diffusion_models.py
 ![Code](diffusion_models.py)
