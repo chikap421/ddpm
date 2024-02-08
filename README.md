@@ -26,6 +26,14 @@ Observe the remarkable capability of DDPMs to transform noise into detailed imag
 
 ## Getting Started
 
+## Usage
+To run a diffusion model, use the following command:
+![Code](diffusion_models.py)
+
+## Acknowledgements
+
+Special thanks to the original authors of the DDPM paper, [Ho et al.](https://arxiv.org/abs/2006.11239), for their groundbreaking work in the field. This project is inspired by their research and contributions to generative modeling.
+
 ### Installation
 
 Clone the repository and install dependencies to get started with `diffusion_models`:
@@ -34,12 +42,5 @@ Clone the repository and install dependencies to get started with `diffusion_mod
 git clone https://github.com/chikap421/diffusion_models.git
 cd diffusion_models
 pip install -r requirements.txt
+```
 
-
-## Usage
-To run a diffusion model, use the following command:
-![Code](diffusion_models.py)
-
-## Acknowledgements
-
-Special thanks to the original authors of the DDPM paper, [Ho et al.](https://arxiv.org/abs/2006.11239), for their groundbreaking work in the field. This project is inspired by their research and contributions to generative modeling.
