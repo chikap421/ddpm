@@ -1,37 +1,40 @@
 # Diffusion Models Project
 
-## Description
+## Overview
 
-`diffusion_models` is a state-of-the-art Python implementation of diffusion models, which are a class of machine learning models that generate high-quality data by learning to reverse a diffusion process. This project provides tools for training, evaluating, and using diffusion models for a variety of tasks such as image generation and data augmentation.
+The `diffusion_models` project offers a cutting-edge Python implementation of Denoising Diffusion Probabilistic Models (DDPMs), a prominent class of machine learning models designed for generating high-quality data. By mastering the art of reversing the diffusion process, this project stands at the forefront of image generation and data augmentation technologies. Aimed at researchers, developers, and hobbyists alike, `diffusion_models` provides comprehensive tools for training, evaluating, and deploying diffusion models across various applications.
 
-## Visuals
+## Features
 
-Here are some stages of noise addition to the images:
+- **State-of-the-Art Generation**: Utilize DDPMs for creating detailed, high-quality images from noise.
+- **Custom Architecture Support**: Includes a customizable U-Net-like architecture for versatile model design.
+- **Advanced Conditioning**: Leverages sinusoidal positional embeddings for precise time-step conditioning.
+- **Extensive Evaluation Toolkit**: Offers robust tools for model testing and performance assessment.
+- **Diverse Application Potential**: Ideal for tasks ranging from image synthesis to sophisticated data augmentation.
 
-### 25% Noise
-![DDPM Noisy images 25%](noisy_image_25.png)
+## Visual Demonstrations
 
-### 50% Noise
-![DDPM Noisy images 50%](noisy_image_50.png)
+Observe the remarkable capability of DDPMs to transform noise into detailed images through these stages:
 
-### 75% Noise
-![DDPM Noisy images 75%](noisy_image_75.png)
+| Noise Level | Visualization |
+|-------------|---------------|
+| 25% Noise | ![DDPM Noisy images 25%](noisy_image_25.png) |
+| 50% Noise | ![DDPM Noisy images 50%](noisy_image_50.png) |
+| 75% Noise | ![DDPM Noisy images 75%](noisy_image_75.png) |
+| 100% Noise | ![DDPM Noisy images 100%](noisy_image_100.png) |
+| Original Images | ![Original images](original_image.png) |
 
-### 100% Noise
-![DDPM Noisy images 100%](noisy_image_100.png)
+## Getting Started
 
-### Original Images
-![Original images](original_image.png)
+### Installation
 
-## Installation
-
-To install `diffusion_models`, follow these steps:
+Clone the repository and install dependencies to get started with `diffusion_models`:
 
 ```bash
 git clone https://github.com/chikap421/diffusion_models.git
 cd diffusion_models
 pip install -r requirements.txt
-```
+
 
 ## Usage
 To run a diffusion model, use the following command:
