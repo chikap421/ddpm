@@ -28,7 +28,7 @@ Observe the remarkable capability of DDPMs to transform noise into detailed imag
 
 ## Usage
 To run a diffusion model, use the following command:
-![Code](diffusion_models.py)
+[Code](diffusion_models.py)
 
 ## Acknowledgements
 
