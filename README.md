@@ -1,5 +1,14 @@
 # Diffusion Models Project
-![]()
+![Diffusion Models](https://img.shields.io/badge/🌫️%20Diffusion%20Models-blue?style=for-the-badge&logo=cloud&logoColor=white)
+![Python](https://img.shields.io/badge/🐍%20Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/🔥%20PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![U-Net](https://img.shields.io/badge/🧠%20U--Net-critical?style=for-the-badge&logo=data:image/png;base64&logoColor=white)
+![Sinusoidal Embeddings](https://img.shields.io/badge/⏳%20Sinusoidal%20Embeddings-yellow?style=for-the-badge&logo=wave&logoColor=white)
+![Image Generation](https://img.shields.io/badge/🖼️%20Image%20Generation-orange?style=for-the-badge&logo=image&logoColor=white)
+![DDPM](https://img.shields.io/badge/🔄%20DDPM-green?style=for-the-badge&logo=data:image/png;base64&logoColor=white)
+![Data Augmentation](https://img.shields.io/badge/📊%20Data%20Augmentation-red?style=for-the-badge&logo=augmentation&logoColor=white)
+![Generative AI](https://img.shields.io/badge/🤖%20Generative%20AI-purple?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![MIT License](https://img.shields.io/badge/📜%20License-lightgrey?style=for-the-badge&logo=open-source-initiative&logoColor=black)
 ## Overview
 
 The `diffusion_models` project offers a cutting-edge Python implementation of Denoising Diffusion Probabilistic Models (DDPMs), a prominent class of machine learning models designed for generating high-quality data. By mastering the art of reversing the diffusion process, this project stands at the forefront of image generation and data augmentation technologies. Aimed at researchers, developers, and hobbyists alike, `diffusion_models` provides comprehensive tools for training, evaluating, and deploying diffusion models across various applications.
