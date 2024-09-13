@@ -1,5 +1,5 @@
 # Diffusion Models Project
-
+![]()
 ## Overview
 
 The `diffusion_models` project offers a cutting-edge Python implementation of Denoising Diffusion Probabilistic Models (DDPMs), a prominent class of machine learning models designed for generating high-quality data. By mastering the art of reversing the diffusion process, this project stands at the forefront of image generation and data augmentation technologies. Aimed at researchers, developers, and hobbyists alike, `diffusion_models` provides comprehensive tools for training, evaluating, and deploying diffusion models across various applications.
